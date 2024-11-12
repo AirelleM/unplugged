@@ -100,7 +100,6 @@ textarea {
 
 /* General Styles */
 .content-wrapper {
-  outline: 3px dotted red;
   width: 90%;
   margin: 50px 0;
 }
