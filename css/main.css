@@ -232,6 +232,7 @@ footer .social-icons {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  flex-direction: row;
 }
 
 footer .social-icons p {
